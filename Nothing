@@ -1,0 +1,6 @@
+List=[1,-1,0,6,-3]
+For I in List:
+If I>0:
+Print(I)
+Else:
+Continue
